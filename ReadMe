@@ -1,0 +1,4 @@
+1, Please ensure you have java install on your machine
+2, Install Maven
+3, Ensure you have gecko driver on your machine
+4, Change the path in the utility package and alldriver class to your local machine
